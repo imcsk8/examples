@@ -1,0 +1,5 @@
+# TEST VALUES, set the proper values here
+[global.databases.postgres]
+url = "postgres://postgres:prueba123@127.0.0.1:9432/postgres"
+timeout = 5
+pool_size = 2
